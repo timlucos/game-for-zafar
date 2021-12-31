@@ -1,0 +1,12 @@
+body{
+    background: 	#585858;
+}
+.title{
+    margin-top: 300px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
